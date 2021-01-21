@@ -439,3 +439,10 @@ h6{ font-family:'Ubuntu'; font-weight:400; font-size:20px; line-height: 25px; co
     .page-404 .txt2{font-size: 50px; line-height: 50px;}
 
 }
+
+#tag {
+    padding-bottom: 10px;
+    padding-top: 0px;
+    min-width: 100%;
+    min-height: 100%;
+}
